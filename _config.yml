@@ -15,7 +15,7 @@ tagline:          'An Android blog'
 description:      'A blog on Android development and other trains of thoughts.<br>Made by <a href="https://twitter.com/IgorGavryliuk" target="_blank">@IgorGavryliuk</a>.'
 url:              http://graviton57.github.io
 paginate:         5
-baseurl:          /graviton57/
+baseurl:          ''
 
 # Assets
 #
