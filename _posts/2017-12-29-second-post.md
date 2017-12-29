@@ -2,12 +2,10 @@
 layout: post
 comments: true
 permalink: /blog/:title
-title: First Post
+title: Second Post
 ---
 
   Hello!
-
- ![alt text](/assets/arch.png "Login")
 
  ![Android architecture]({{ site.url }}/assets/arch.png)[^fn-footnote_two]
 
