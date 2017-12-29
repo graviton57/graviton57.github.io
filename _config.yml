@@ -1,5 +1,6 @@
 # Dependencies
 highlighter:      rouge
+# Gems
 gems: [jekyll-paginate, jekyll-gist, jekyll-github-metadata]
 
 # Permalinks
@@ -10,13 +11,22 @@ title:            Ihor Havryliuk
 tagline:          'An Android blog'
 description:      'A blog on Android development and other trains of thoughts.<br>Made by <a href="https://twitter.com/IgorGavryliuk" target="_blank">@IgorGavryliuk</a>.'
 url:              http://graviton57.github.io
-baseurl:          /
+paginate:         5
+baseurl:          ""
+# baseurl:          /
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
 author:
   name:           'Ihor Havryliuk'
   url:            https://twitter.com/IgorGavryliuk
 
-paginate:         5
 
 # Custom vars
 github_link:	  https://github.com/graviton57
