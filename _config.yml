@@ -7,7 +7,7 @@ gems: [jekyll-paginate, jekyll-gist, jekyll-github-metadata]
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:        pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:            Ihor Havryliuk
