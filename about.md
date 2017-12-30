@@ -4,7 +4,7 @@ title: About
 ---
 
 Ihor is an Android Developer currently living in Chernivtsi, Ukraine.
-   He is a: <i class="material-icons md-18">&#xE859;</i> enthusiast, <i class="material-icons md-18">&#xE405;</i> banjo picker.
+   He is a: <i class="material-icons md-18">&#xE859;</i> enthusiast, <i class="material-icons md-18">&#xE405;</i> subscriber 'A State Of Trance'.
 
 You can find him on [GitHub](https://github.com/graviton57), Twitter [@IgorGavryliuk](https://twitter.com/IgorGavryliuk), and [LinkedIn](https://www.linkedin.com/in/graviton57), or you can email him at gavrilyuk.igor [at] gmail.com.
 
