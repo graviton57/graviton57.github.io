@@ -5,5 +5,5 @@ permalink: /blog/:title
 title: First Post
 ---
 <div class="message">
-  Hello!
+  Happy New Year!!!
 </div>
