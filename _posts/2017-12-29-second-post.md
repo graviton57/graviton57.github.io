@@ -42,15 +42,12 @@ MVP appears to be very simple when explained with a simple Activity example but 
 
 If you want to dive deep into a world of beautiful coding and be mesmerized then follow along with this article. It’s not a news article, so get involved with it, put on your shoes with your back straight and away from all distractions.
 
-Let’s sketch the blueprint of the architecture first.
-![Android architecture]({{ site.url }}/assets/arch.png)[^fn-footnote_two]
+### Let’s sketch the blueprint of the architecture first.
+
+![alt text](assets/arch.png "Android architecture")
 
  Architecture is the first thing you should work on for any software. A carefully crafted architecture will minimize a lot of rework in future while providing the scalability ease.
  Most of the project today is developed in a team, hence the code readability and modularity should be taken as utmost important elements of the architecture.
  We also rely heavily on 3rd party libraries and we keep switching between alternatives because of use cases, bugs or support.
  So, our architecture should be designed with plug and play design. The interfaces for classes serves this purpose.
 
-
-
-
-[^fn-footnote_two]: [Android architecture](https://developer.android.com/topic/libraries/architecture/index.html)
